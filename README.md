@@ -35,7 +35,7 @@ P1 (blocks shipping):
 
 ## ship-check tells you what's wrong. Fixing it is the rest of the kit.
 
-The full **Ship-It Kit for Python** _(launching this week — link coming)_ is 8 skills covering
+The full **[Ship-It Kit for Python](https://jackiecole.gumroad.com/l/lcscdf)** (use code `LAUNCH` for 20% off this week) is 8 skills covering
 the whole last mile: pytest generation for existing code, error hardening,
 print→logging, argparse CLI conversion, packaging (`pip install .` from a fresh
 venv), README generation, and a release gate with secret scan — plus templates
